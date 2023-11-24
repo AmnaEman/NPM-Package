@@ -1,0 +1,17 @@
+{
+  "name": "@amnaeman/mynpm-pkg",
+  "version": "1.0.0",
+  "description": "Trial npm package for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "trial"
+  ],
+  "author": "Amna",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
